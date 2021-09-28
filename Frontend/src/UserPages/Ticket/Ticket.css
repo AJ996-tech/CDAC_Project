@@ -1,0 +1,19 @@
+.ticket1{
+    margin-top:25px;
+    border: 2px solid black;
+}
+
+.tdiv{
+    margin-top:15px;
+    background-color:white;
+}
+
+.label{
+    text-align:center;
+    color: rgb(60, 233, 17);
+}
+
+.td{
+    color:rgb(226, 142, 17);
+    text-align:center;
+}
